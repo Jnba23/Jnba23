@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wadoud</h1>
 <h3 align="center">Software engineering @ 42 | Interested in AI/ML and data, with an experience in backend</h3>
 
-- 🔭 I’m currently working on my own project **Tutor Assistant**
+- 🔭 I’m currently working on my own **Tutor Assistant** project 
 
 - 🌱 I’m currently learning **langchain and Graphchain**
 
